@@ -1,5 +1,5 @@
 # xymen-pro
-Contains Xymen Pro Release Apks
+Contains Xymen Pro Release APKs
 
 Website: http://www.xymenapps.com
 
