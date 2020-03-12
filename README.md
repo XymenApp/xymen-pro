@@ -16,5 +16,7 @@ Twitter: https://twitter.com/XymenInc
 
 Youtube: https://www.youtube.com/channel/UC7P6XRqhId-9uDgnZ33UX3Q
 
+Links: https://link.xymenapps.com/links
+
 
 Disclaimer: Any website or account other than the mentioned above are not associated with us.
